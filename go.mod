@@ -1,3 +1,3 @@
-module github.com/cep21/gomodlib
+module github.com/cep21/gomodlib/xenial
 
 go 1.12
